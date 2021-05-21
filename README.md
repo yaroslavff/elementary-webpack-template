@@ -3,6 +3,12 @@
 Standart webpack Template.
 SCSS + JS + TS + REACT.
 
+for download dependencies:
+
+<b> npm i </b>
+
+
+
 ## dependencies:
 
 - "normalize.css": "^8.0.1",
@@ -16,17 +22,15 @@ SCSS + JS + TS + REACT.
 - "clean-webpack-plugin": "^4.0.0-alpha.0"
 - "copy-webpack-plugin": "^8.1.1",
 
-## html:
+### html:
 
 - "html-webpack-plugin": "^5.3.1"
 
-## js:
+### js:
 
 - "@babel/core": "^7.14.2",
 - "@babel/preset-env": "^7.14.2",
-- "babel-loader": "^8.2.2"
-
-## style:
+- "babel-loader": "^8.2.2
 
 ### css:
 
@@ -40,10 +44,10 @@ SCSS + JS + TS + REACT.
 - "node-sass": "^6.0.0",
 - "sass-loader": "^11.1.1"
 
-## image:
+### image:
 
 - "file-loader": "^6.2.0"
 
-## fonts:
+### fonts:
 
 - "file-loader": "^6.2.0"
